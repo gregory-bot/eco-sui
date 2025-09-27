@@ -10,7 +10,7 @@ const HeroSection: React.FC = () => {
       alt: "Clean environment and technology"
     },
     {
-      src: "https://media.istockphoto.com/id/1384595572/photo/bitcoin-crashing-is-a-great-opportunity.jpg?b=1&s=612x612&w=0&k=20&c=F07R_z33nlvccu_woYooXX4o0ynpBQW2YIwrgAZmvFI=",
+      src: "https://i.pinimg.com/1200x/99/d6/d6/99d6d6df56c1503e6d78da09c9c2198a.jpg",
       alt: "Sustainable community development"
     }
   ];
